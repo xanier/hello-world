@@ -1,2 +1,3 @@
 # hello-world
-My first step. 
+HELLO! 
+I have yet to eat breakfast ): 
